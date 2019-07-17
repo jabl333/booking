@@ -1,4 +1,6 @@
 var labEvents = [
+  { title: '<Training G-KAM / Setttlements> / JanaB', start: '2019-07-24T09:30:00',  end  : '2019-07-24T11:30:00', resourceId: 'C-MEETROOM'},
+  { title: '<Training G-KAM / enLight+Clearing Data> / JanaB', start: '2019-07-25T09:90:00',  end  : '2019-07-25T11:30:00', resourceId: 'C-MEETROOM'},
   { title: 'Repair Works / Stan S.', start: '2019-07-19T10:00:00', end: '2019-07-19T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-07-30T14:30:00', end: '2019-07-30T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Bundesbank Presentation / Eliska F.', start: '2019-07-18T09:30:00', end: '2019-07-18T12:00:00', resourceId: 'B-LONGTABLE' },
