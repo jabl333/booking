@@ -1,4 +1,5 @@
 var labEvents = [ 
+  { title: 'Clearing Regulatory Framework / Jana B.', start: '2019-11-01T09:00:00', end: '2019-11-01T18:00:00',resourceId: 'C-MEETROOM'},
   { title: 'CR+StX Dept. Workshop / Katka V.', start: '2019-11-26T10:00:00', end: '2019-11-26T12:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'XBID Backlog Refinement / Jiri V.', start: '2019-10-31T10:00:00', end: '2019-10-31T11:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Waste Sorting Training / Bara S.', start: '2020-01-22T10:30:00', end: '2019-01-22T12:00:00',resourceId: 'B-LONGTABLE'},
